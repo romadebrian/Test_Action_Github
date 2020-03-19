@@ -1,0 +1,2 @@
+- name: Composer (php-actions)
+  uses: php-actions/composer@v1
