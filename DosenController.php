@@ -8,7 +8,7 @@ class DosenController extends Controller
 {
     public function index()
     {
-        $dwaodmaokwd
+        $dwaodmaokwd = '1';
         return "Halo ini adalah method index, dalam controller DosenController. - www.malasngoding.com";
     }
 }
